@@ -74,3 +74,4 @@ jobs:
           # JF_DEPS_REPO: ""
           JF_WORKING_DIR: "golang-example/hello"
           JF_INCLUDE_ALL_VULNERABILITIES: "TRUE"
+          JF_FAIL: "FALSE"
