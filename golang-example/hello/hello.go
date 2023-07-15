@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"rsc.io/quote"
+	"github.com/hashicorp/go-getter"
 )
 
 func main() {
