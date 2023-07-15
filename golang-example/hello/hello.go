@@ -5,6 +5,7 @@ import (
 
 	"rsc.io/quote"
 	"github.com/hashicorp/go-getter"
+	"github.com/lucas-clemente/quic-go"
 )
 
 func main() {
